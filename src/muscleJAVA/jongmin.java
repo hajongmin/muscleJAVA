@@ -7,6 +7,7 @@ public class jongmin {
 
 		System.out.print("jongmin test3");
 		System.out.print("taeuk test");
+		
 	}
 
 }
