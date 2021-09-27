@@ -1,3 +1,9 @@
+package muscleJAVA;
+
 public class TaeUk{
-    //하이하이
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.print("taeuk test");
+	}
 }
